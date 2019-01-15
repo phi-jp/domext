@@ -1,0 +1,19 @@
+{
+  "name": "domextend",
+  "version": "0.0.1",
+  "description": "dom extend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phi-jp/domextend.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phi-jp/domextend/issues"
+  },
+  "homepage": "https://github.com/phi-jp/domextend#readme"
+}
