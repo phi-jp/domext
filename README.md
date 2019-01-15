@@ -1,2 +1,2 @@
-# domext
+# domextend
 dom extend
